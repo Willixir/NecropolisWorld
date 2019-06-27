@@ -1,5 +1,5 @@
 # NecropolisWorld
-Necropolis World for VRchat
+This is trash! Delete this!
 
 
 Daniel edited this file!
